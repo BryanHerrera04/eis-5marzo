@@ -1,3 +1,3 @@
-res = [ "Uno", "Dos", "Tres"]
+numberList = [ "Uno", "Dos", "Tres"]
 for number in numberList:
     print(number)
